@@ -1,0 +1,14 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  padding: 20px;
+  font-family: roboto;
+  color: #ffffff;
+}
+
+.image-containere {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: center;
+}
